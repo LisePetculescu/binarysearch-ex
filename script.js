@@ -4,7 +4,7 @@ let index = binarySearch(number, values);
 console.log(`Fundet tallet ${number} på index: ${index}`);
 
 function binarySearch(search, values) {
-  // klar til kode!
+  
   let min = 0;
   let max = values.length - 1;
   let middle = Math.floor((max + min) / 2);

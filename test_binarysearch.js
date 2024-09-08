@@ -5,7 +5,7 @@ const oldNumberArray = [21, 22, 23, 89, 25, 27, 28, 29, 31, 32, 34, 35];
 const numberArray = oldNumberArray.toSorted();
 
 
-const oldStringArray = ["Draco", "åge", "Dumbledore", "Harry", "Hermione", "Luna", "Neville", "Ron", "Snape", "Voldemort"];
+const oldStringArray = ["Draco", "Åge", "Dumbledore", "Harry", "Hermione", "Luna", "Neville", "Ron", "Snape", "Voldemort"];
 const stringArray = oldStringArray.toSorted();
 
 
